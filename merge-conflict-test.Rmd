@@ -11,6 +11,6 @@ Changing other text
 
 Here's some code
 ```{r}
-x <- runif(5, min = 5, max = 10) 
+x <- runif(10, min = 5, max = 10) 
 ```
 
