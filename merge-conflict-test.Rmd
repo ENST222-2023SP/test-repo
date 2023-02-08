@@ -7,7 +7,7 @@ output: html_document
 
 # This is my title
 
-Here's some text
+Changing other text
 
 Here's some code
 ```{r}
