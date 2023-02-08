@@ -11,6 +11,6 @@ Here's some text
 
 Here's some code
 ```{r}
-
+x <- runif(5) 
 ```
 
