@@ -14,4 +14,3 @@ Here's some code
 x <- runif(5, min = 5, max = 10) 
 ```
 
-Adding more text
