@@ -9,7 +9,7 @@ output: html_document
 
 Here's some text
 
-Here's some code
+code code code
 ```{r}
 
 x <- runif(10) 
