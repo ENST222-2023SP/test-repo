@@ -1,0 +1,18 @@
+---
+title: "Merge conflicts test"
+author: "Cassie Gurbisz"
+date: "2/8/2023"
+output: html_document
+---
+
+# Here's a title
+
+Here's some text
+
+Here's some code
+```{r}
+x <- runif(25, min = 5, max = 100)
+
+x
+```
+
