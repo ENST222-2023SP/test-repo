@@ -11,13 +11,6 @@ Here's some text
 
 Here's some code
 ```{r}
-x <- runif(25, min = 5, max = 100)
-z <- c(5, 7, 2)
 
-x
-a <- 5*x
-
-
-y <- c(4, 6, 7)
 ```
 
